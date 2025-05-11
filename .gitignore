@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+# Add other common virtualenv names if you use them
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
+*.swp
